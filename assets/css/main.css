@@ -2488,7 +2488,7 @@ input, select, textarea {
 
 		#banner .content {
 			position: relative;
-			background-color: rgba(255, 255, 255, 0.11);
+			background-color: rgba(255, 255, 255, 0.068);
 			background-image: url("images/overlay.png"), url("images/highlight.png");
 			background-position: top left, center center;
 			background-size: auto, 100% 250%;
@@ -2509,7 +2509,7 @@ input, select, textarea {
 				font-family: 'Open Sans Condensed', sans-serif;
 				font-weight: 700;
 				text-transform: uppercase;
-				color: #575d59;
+				color: #575d590c;
 				font-size: 1.35em;
 				margin: 0 0 1.25em 0;
 			}
