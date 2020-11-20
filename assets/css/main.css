@@ -1866,7 +1866,7 @@ input, select, textarea {
 
 		ul li {
 			padding-left: 0.5em;
-			margin: 0 0 3px 0;
+			margin: 0 0 10px 0;
 		}
 
 	ol {
@@ -1876,7 +1876,7 @@ input, select, textarea {
 
 		ol li {
 			padding-left: 0.25em;
-			margin: 0 0 3px 0;
+			margin: 0 0 10px 0;
 		}
 
 /* Divided */
