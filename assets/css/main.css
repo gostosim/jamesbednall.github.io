@@ -1822,7 +1822,7 @@ input, select, textarea {
 		input[type="reset"]:active,
 		button:active,
 		.button:active {
-			background: #a1cd9b;
+			background: #3b45df;
 		}
 
 		input[type="button"].alt,
