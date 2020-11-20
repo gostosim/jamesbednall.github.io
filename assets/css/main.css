@@ -191,7 +191,7 @@ input, select, textarea {
 	}
 
 	p, ul, ol, dl, table {
-		margin-bottom: 3em;
+		margin-bottom: 10em;
 	}
 
 /* Section/Article */
@@ -1886,7 +1886,7 @@ input, select, textarea {
 
 		ul.divided > li {
 			border-top: solid 2px #e7e7ea;
-			padding-top: 2.35em;
+			padding-top: 4.35em;
 			margin-top: 2.35em;
 			padding-left: 0;
 		}
