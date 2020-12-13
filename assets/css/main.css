@@ -2215,6 +2215,7 @@ border: 0;
 
 	.box.highlight {
 		text-align: center;
+		align-content: center;
 	}
 
 		.box.highlight h2 {
