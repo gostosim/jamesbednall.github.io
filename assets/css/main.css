@@ -3125,5 +3125,15 @@ border: 0;
 			body, input, textarea, select {
 				font-size: 10pt;
 			}
+			.container {
+				position: relative;
+			}
+			
+			.row.gtr-200 > * {
+				width: 100%;
+			}
 
+			section.box.highlight img {
+				margin-bottom: 15px;
+			}
 	}
