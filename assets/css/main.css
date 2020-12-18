@@ -3136,4 +3136,9 @@ border: 0;
 			section.box.highlight img {
 				margin-bottom: 15px;
 			}
+
+			.item a {
+				word-break: break-all;
+				display: block;
+			}
 	}
